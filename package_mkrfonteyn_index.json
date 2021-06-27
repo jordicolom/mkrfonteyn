@@ -1,0 +1,55 @@
+{
+    "packages": [
+        {
+            "name": "mkrfonteyn",
+            "maintainer": "Mkr Foteyn",
+            "websiteURL": "https://passionspas.con",
+            "email": "tinfo@passiospas.com",
+            "platforms": [
+                {
+                    "name": "MKR FONTEYN",
+                    "architecture": "samd",
+                    "version": "0.0.1",
+                    "category": "Contributed",
+                    "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/mkrfonteyn.zip",
+                    "archiveFileName": "mkrfonteyn.zip",
+                    "checksum": "SHA-256:d4fcaa285cbde93a1015f832ca1671ec7fe0e8f30b828980e553dc91a99a7a1b",
+                    "size": "4435184",
+                    "boards": [
+                        {
+                            "name": "MKR FONTEYN"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "packager": "arduino",
+                            "name": "arm-none-eabi-gcc",
+                            "version": "7-2017q4"
+                        },
+                        {
+                            "packager": "arduino",
+                            "name": "bossac",
+                            "version": "1.8.0-48-gb176eee"
+                        },
+                        {
+                            "packager": "arduino",
+                            "name": "openocd",
+                            "version": "0.10.0-arduino9"
+                        },
+                        {
+                            "packager": "arduino",
+                            "name": "CMSIS",
+                            "version": "4.5.0"
+                        },
+                        {
+                            "packager": "arduino",
+                            "name": "CMSIS-Atmel",
+                            "version": "1.2.0"
+                        }
+                    ]
+                }
+            ],
+            "tools": []
+        }
+    ]
+}
