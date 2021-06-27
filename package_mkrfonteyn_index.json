@@ -4,14 +4,14 @@
             "name": "mkrfonteyn",
             "maintainer": "Mkr Foteyn",
             "websiteURL": "https://passionspas.con",
-            "email": "tinfo@passiospas.com",
+            "email": "info@passiospas.com",
             "platforms": [
                 {
                     "name": "MKR FONTEYN",
                     "architecture": "samd",
                     "version": "0.0.1",
                     "category": "Contributed",
-                    "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/mkrfonteyn.zip",
+                    "url": "https://github.com/jordicolom/mkrfonteyn/blob/main/mkrfonteyn.zip",
                     "archiveFileName": "mkrfonteyn.zip",
                     "checksum": "SHA-256:d4fcaa285cbde93a1015f832ca1671ec7fe0e8f30b828980e553dc91a99a7a1b",
                     "size": "4435184",
